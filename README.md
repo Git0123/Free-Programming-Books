@@ -1,6 +1,6 @@
 Free Programming Books
 
-1. C++ Notes For Professionals:         http://failgete.ru/file/267918
+1. C++ Notes For Professionals:         http://filemix-2.ru/file/272f7c
 2. C# Notes For Professionals:          http://filemix-2.ru/file/272fb3
 3. Java Notes For Professionals:        http://filemix-2.ru/file/272fea
 4. Python Notes For Professionals:      http://filemix-2.ru/file/2731d9
